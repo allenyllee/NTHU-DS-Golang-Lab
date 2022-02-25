@@ -1,4 +1,4 @@
 .lh/.lhignore
 .history/
 .lh/
-tmp.txt
+.devcontainer/library-scripts/tmp.txt
